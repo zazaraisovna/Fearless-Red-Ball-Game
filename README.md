@@ -12,7 +12,7 @@ This game was created in 3 days with Unity (C#)
    git clone https://github.com/zazaraisovna/Fearless-Red-Ball-Game.git
    ```
 2. Откройте проект в Unity (версия 5.3.4f1).
-3. Запустите сцену MainScene через Unity Editor.
+3. Запустите сцену Main через Unity Editor.
 
 ## 🧠 Чему я научилась
 
