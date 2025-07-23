@@ -2,7 +2,7 @@
 
 Мини-аркада, в которой игрок управляет отважным красным шариком, прыгающим по платформам.
 ### [Ссылка на билд](https://zaza.itch.io/fearless-red-ball)
-Эта игра была созана за три дня Unity (C#)
+Эта игра была созана за три дня, Unity (C#)
 
 ![gif](https://github.com/zazaraisovna/challenge3/blob/master/zaza_challenge_3_wsgames_small.gif)
 
