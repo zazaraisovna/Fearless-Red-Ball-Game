@@ -1,4 +1,4 @@
-🇬🇧 [English](README.md)
+[🇬🇧 English](README.md)
 
 # 🎮 Fearless Red Ball (Бесстрашный красный мяч)
 
