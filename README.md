@@ -1,4 +1,5 @@
 [🇷🇺 Русский](README.ru.md)
+
 # 🎮 Fearless Red Ball
 
 A mini arcade game where you control a fearless red ball jumping across platforms.  
@@ -31,8 +32,10 @@ This game was created in 3 days using Unity (C#).
 
 ## 👩‍💻 Developer
 
-Azaliya (@zazaraisovna)
+Azaliya ([@zazaraisovna](https://github.com/zazaraisovna))
+
 Indie game developer. I love 2D, narrative design.
+
 More projects on my [GitHub page](https://github.com/zazaraisovna)
 
 🎨 Pixel art • 🎮 Unity • 🧪 Game jams
